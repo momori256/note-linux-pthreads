@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "*.tcc": "c",
+    "cmath": "c",
+    "functional": "c",
+    "random": "c",
+    "type_traits": "c",
+    "rwlock.h": "c",
+    "istream": "c",
+    "stop_token": "c",
+    "thread": "c",
+    "errno-base.h": "c"
+  }
+}
